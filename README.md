@@ -1,0 +1,1 @@
+# AWS-SNS-Test-Fixture
