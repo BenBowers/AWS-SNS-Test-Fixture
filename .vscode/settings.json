@@ -1,0 +1,14 @@
+{
+  "search.exclude": {
+    "**/.sst": true
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnPaste": false, // required 
+  "editor.formatOnType": false, // required
+  "editor.formatOnSave": true, // optional 
+  "editor.formatOnSaveMode": "file", // required to format on save
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
